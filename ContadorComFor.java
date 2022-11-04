@@ -9,7 +9,6 @@ public class ContadorComFor {
         int n2 = s.nextInt();
         System.out.print("Digite o passo contador: ");
         int p = s.nextInt();
-
         for(int i = n1; n1<=n2; n1+=p){
             System.out.println(n1);
         }
