@@ -5,7 +5,6 @@ public class ContadorComFor {
         Scanner s = new Scanner(System.in);
         System.out.print("Digite o numero de inicio do contador: ");
         int n1 = s.nextInt();
-
         System.out.print("Digite o numero de fim do contador: ");
         int n2 = s.nextInt();
 
